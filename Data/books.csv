@@ -1,0 +1,35 @@
+bcode,title,quantity,lended,price
+B001,Introduction to Python Programming,10,6,25.99
+B002,Data Structures and Algorithms in Python,5,1,35.50
+B003,Machine Learning: A Probabilistic Perspective,8,0,42.75
+B004,Artificial Intelligence: A Modern Approach,3,2,55.00
+B005,Deep Learning with Python,7,3,48.20
+B006,Computer Networks: A Top-Down Approach,12,5,39.99
+B007,Operating System Concepts,9,3,47.50
+B008,Database System Concepts,6,1,52.00
+B009,Introduction to Algorithms,4,0,60.25
+B010,The C Programming Language,11,6,32.75
+B011,Web Development with Django,8,2,44.90
+B012,Java: A Beginner's Guide,14,7,36.80
+B013,JavaScript: The Good Parts,5,1,45.00
+B014,Introduction to Computer Graphics,7,3,49.50
+B015,Software Engineering: A Practitioner's Approach,10,4,55.75
+B016,Computer Architecture: A Quantitative Approach,3,0,58.00
+B017,Design Patterns: Elements of Reusable Object-Oriented Software,6,2,41.20
+B018,Introduction to Artificial Intelligence,9,3,46.80
+B019,Python Cookbook,8,1,37.25
+B020,Operating Systems: Internals and Design Principles,11,5,51.50
+B021,Data Mining: Concepts and Techniques,4,2,53.99
+B022,Computer Graphics: Principles and Practice,6,1,48.75
+B023,Algorithms in C,7,3,39.40
+B024,Computer Organization and Design,10,4,57.60
+B025,Pro Git,9,2,34.90
+B026,Introduction to Software Engineering,6,0,43.25
+B027,Python Crash Course,13,6,36.00
+B028,Operating Systems: Three Easy Pieces,7,2,45.75
+B029,Database Management Systems,8,4,49.99
+B030,Computer Networking: A Top-Down Approach,5,1,54.25
+B031,The Great Gatsby,3,1,1925
+B032,Python Programming,13,2,50.2
+B032,Python Programming,13,2,50.2
+B032,Python Programming,13,2,50.2
